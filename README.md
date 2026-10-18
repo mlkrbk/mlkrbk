@@ -6,7 +6,7 @@ Physics MSc graduate focused on scientific computing, data analysis and research
 
 ### [Newtrinos.jl](https://github.com/Newtrinos-org/Newtrinos.jl)
 
-Contributed JUNO and TAO detector models and analysis tools to a Julia framework for global neutrino data analysis during my master's research.
+Contributed [JUNO](https://github.com/Newtrinos-org/Newtrinos.jl/blob/main/src/experiments/juno/juno.jl) and [TAO](https://github.com/Newtrinos-org/Newtrinos.jl/blob/main/src/experiments/juno/tao.jl) detector models and [analysis tools](https://github.com/Newtrinos-org/Newtrinos.jl/blob/main/src/analysis/analysis_tools.jl) to a Julia framework for global neutrino data analysis during my master's research.
 
 [Detector models and analysis tools](https://github.com/Newtrinos-org/Newtrinos.jl/pull/40) · [Poisson/Asimov rounding fix](https://github.com/Newtrinos-org/Newtrinos.jl/pull/52)
 
