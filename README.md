@@ -1,16 +1,15 @@
-## Hi there 👋
+# Melike Nur Erbek
 
-<!--
-**mlkrbk/mlkrbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics MSc graduate focused on scientific computing, data analysis and research software.
 
-Here are some ideas to get you started:
+## Selected projects and contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Newtrinos.jl](https://github.com/Newtrinos-org/Newtrinos.jl)
+
+Contributed JUNO and TAO detector models and analysis tools to a Julia framework for global neutrino data analysis during my master's research.
+
+[Detector models and analysis tools](https://github.com/Newtrinos-org/Newtrinos.jl/pull/40) · [Poisson/Asimov rounding fix](https://github.com/Newtrinos-org/Newtrinos.jl/pull/52)
+
+### [Silicon-strip laboratory data](https://github.com/mlkrbk/silicon-strip-lab-data)
+
+Python workflow for turning detector-laboratory exports into traceable, validated results, with metadata, an eLabFTW integration and data-management documentation. Includes measurement plots and aggregate results.
